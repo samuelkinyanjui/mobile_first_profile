@@ -1,0 +1,14 @@
+body{
+    min-width: 100%;   
+
+}
+.myportfolio{
+    display: flex;
+    background-color: lightgray;
+    min-height: 100%;
+    flex-flow: column nonwrap;
+    justify-content: space-around;
+    justify-content: center;
+    align-items: center;
+    
+}
